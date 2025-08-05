@@ -62,4 +62,4 @@ The script inserts sample data for authors, books, patrons, and loans to demonst
 
 
 ## Author
-Chamling Manita
+Manita
